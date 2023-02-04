@@ -14,7 +14,6 @@ import Element.Element;
 import event.Event;
 
 public class Game extends JPanel implements KeyListener{
-
 	private static final long serialVersionUID = 1L;
 	
 	private static int speed = 50,dogSize = 60 ,waveHeight = 50;
